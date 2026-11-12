@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "Negopedia — A world of knowledge",
+  "short_name": "Negopedia",
+  "description": "A welcoming, independent encyclopedia for curious minds.",
+  "lang": "en",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f5f4ef",
+  "theme_color": "#f5f4ef",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
